@@ -4,7 +4,12 @@ body {
     margin: 0;
     text-align: center;
 }
-
+h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 20px;
+}
 header {
     position: fixed;
     background-color: #272643;
